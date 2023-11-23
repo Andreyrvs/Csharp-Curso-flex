@@ -1,0 +1,15 @@
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/andrey/betrybe/Aceleraçoes/C#/secao-02-Fundamentos-e-Recursos-da-Linguagem-C#/dia-01-Hello-world-em-C#-e-dotNet/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
